@@ -207,10 +207,6 @@ main {
         gap: 5rem;
     }
 
-    header {
-        padding: 0;
-    }
-
     main {
         display: flex;
         gap: 3rem;
@@ -238,6 +234,6 @@ main {
     }
 
     .resultados div > strong {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 }
